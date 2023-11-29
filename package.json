@@ -1,5 +1,5 @@
 {
-  "name": "government.github.com",
+  "name": "Event.olympiad.com",
   "version": "1.0.0",
   "description": "![screenshot](assets/img/screenshot.png)",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/github/government.github.com/issues"
   },
-  "homepage": "https://government.github.com",
+  "homepage": "https://Event.olympiad.com",
   "dependencies": {
     "octicons": "^5.0.1",
     "primer-core": "^6.2.0",
