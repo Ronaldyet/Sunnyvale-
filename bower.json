@@ -1,11 +1,11 @@
 {
-  "name": "government.github.com",
+  "name": "Event.olympiad.com",
   "version": "0.0.1",
-  "homepage": "https://government.github.com/",
+  "homepage": "https://Event.olympiad.com/",
   "authors": [
     "GitHub, Inc."
   ],
-  "description": "Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations",
+  "description": "Gather, curate, and feature stories of people,and companies building networks by the event Olympiad",
   "main": "index.html",
   "license": "MIT",
   "dependencies": {
